@@ -26,7 +26,6 @@ alert("A sua multiplicação foi: " + multiplication)
 alert("A sua divisão foi: " + division)
 alert("O resto da divisão foi: " + rest)
 
-
 let evenOdd 
 
 if(sum % 2 == 0) { 
